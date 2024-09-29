@@ -1,6 +1,4 @@
 import random
-import time
-
 
 def rps():
     print('WELL COME TO THE GAME.....')
